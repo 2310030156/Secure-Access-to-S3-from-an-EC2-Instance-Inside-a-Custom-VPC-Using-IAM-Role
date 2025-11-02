@@ -1,7 +1,7 @@
 🚀 Secure Access to S3 from an EC2 Instance Inside a Custom VPC Using IAM Role
 
 🎥 **Project Demo Video**  
-[![Watch the video](
+[![Watch the video](https://youtu.be/jEC0lDKg3d4)
 
 Project Type: AWS Hands-on
 Tools Used: AWS Management Console, IAM, S3, EC2, VPC, PowerShell (Windows)
